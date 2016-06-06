@@ -26,7 +26,8 @@ read closely on a second pass.
     but I think PFPL does a better job explaining the foundations it
     works from and then covers more topics I find interesting.
 
-    * [Online copy](http://www.cs.cmu.edu/~rwh/plbook/2nded.pdf)
+    * [Online copy](http://www.cs.cmu.edu/~rwh/pfpl/2nded.pdf)
+    * [Website](http://www.cs.cmu.edu/~rwh/pfpl/)
     * [Dead-tree copy](http://www.amazon.com/Practical-Foundations-Programming-Languages-Professor/dp/1107029570/ref=sr_1_1?ie=UTF8&qid=1439346858&sr=8-1&keywords=practical+foundations+for+programming+languages)
 
  - Types and Programming Languages (TAPL)
